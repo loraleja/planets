@@ -1,16 +1,5 @@
 Cold and dry, but everything is my favorite color.
 The two moons may be a problem for Wolfman .
 But the Mummy will appreciate the lack of humidity
-some change
-<<<<<<< HEAD
-<<<<<<< HEAD
-New change!!!
-=======
->>>>>>> 5f8da30f9336dcfc7d36c21299d6d839da7f6d5b
-=======
-Change by Marie
->>>>>>> 94c57d49ff0fc8f3292f3152047c8f16578345e1
 
->>>>>>> 94c57d49ff0fc8f3292f3152047c8f16578345e1
-
-Other change!!
+This planet is THE best... well in my opinion
